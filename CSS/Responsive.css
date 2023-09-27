@@ -1,0 +1,2148 @@
+/* For Laptop View */
+
+
+@media screen and (max-width: 1240px) {
+    .container {
+        max-width: 1024px;
+    }
+
+    .header ul li a {
+        padding-left: 0px;
+        font-size: 16px;
+    }
+
+    .scroll img {
+        height: 535px;
+    }
+
+    .drive h1 {
+        font-size: 45px;
+    }
+
+    .drive img {
+        height: 200px;
+        width: 290px;
+    }
+
+    .bike h2 {
+        font-size: 25px;
+    }
+
+    .bike button {
+        font-size: 14px;
+        padding: 8px 15px;
+    }
+
+    .shine {
+        height: 400px;
+    }
+
+    .shine h1 {
+        font-size: 40px;
+        padding-top: 150px;
+        padding-bottom: 20px;
+    }
+
+    .shine button {
+        margin-left: 200px;
+        padding: 4px 23px;
+    }
+
+    .speed h1 {
+        font-size: 40px;
+    }
+
+    .speed h2 {
+        font-size: 30px;
+    }
+
+    .speed a {
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+    .iconic img {
+        height: 250px;
+        padding-top: 0px;
+    }
+
+    .iconic h6 {
+        padding-top: 65px;
+    }
+
+    .ride {
+        padding: 80px;
+    }
+
+    .ride img {
+        height: 300px;
+        width: 320px;
+    }
+
+    .ride h6 {
+        font-size: 21px;
+    }
+
+    .ride p {
+        width: 341px;
+        font-size: 14px;
+        padding-bottom: 0px;
+    }
+
+    .ride button {
+        font-size: 14px;
+        padding: 7px 20px;
+    }
+
+    .new-speed {
+        height: 400px;
+    }
+
+    .new-speed h1 {
+        font-size: 40px;
+    }
+
+    .new-speed .line {
+        width: 328px;
+        margin-left: 82px;
+    }
+
+    .new-speed button {
+        font-size: 15px;
+        padding: 6px 20px;
+        margin-left: 144px;
+    }
+
+    .icons i {
+        font-size: 35px;
+        padding-left: 2px;
+    }
+
+    .new-speed .line {
+        margin-bottom: 25px;
+        margin-top: 14px;
+    }
+
+    .lines {
+        margin-top: 35px;
+        width: 830px;
+    }
+
+    .last ul li a {
+        padding-left: 10px;
+        font-size: 14px;
+    }
+
+
+    /* ===================================================== */
+
+
+    .header-1 ul li a {
+        padding-left: 0px;
+        font-size: 16px;
+    }
+
+    .bg-1 {
+        height: 535px;
+    }
+
+    .bg-1 h1 {
+        font-size: 42px;
+    }
+
+    .bg-1 .lines {
+        margin-left: 123px;
+        margin-top: 26px;
+    }
+
+    .comfort p {
+        font-size: 14px;
+        width: 689px;
+        padding-left: 121px;
+    }
+
+    .comfort img {
+        height: 400px;
+    }
+
+    .comfort h1 {
+        font-size: 40px;
+    }
+
+    .luggage {
+        padding: 0px 80px 0px 80px;
+    }
+
+    .luggage img {
+        height: 350px;
+        padding-top: 0px;
+    }
+
+    .luggage h1 {
+        font-size: 42px;
+    }
+
+    .luggage p {
+        font-size: 14px;
+        width: 726px;
+        padding-left: 170px;
+    }
+
+    .protection img {
+        height: 400px;
+    }
+
+    .protection h1 {
+        font-size: 42px;
+    }
+
+    .protection p {
+        font-size: 14px;
+        width: 726px;
+        padding-left: 170px;
+    }
+
+    .protection {
+        padding: 50px 80px 0px 80px;
+    }
+
+    .avaliable img {
+        height: 360px;
+        width: 100%;
+    }
+
+    .avaliable h1 {
+        font-size: 42px;
+    }
+
+    .avaliable h6 {
+        font-size: 17px;
+        font-weight: 600;
+        padding-left: 134px;
+        padding-top: 15px;
+    }
+
+    .avaliable p {
+        font-size: 13px;
+        width: 760px;
+        padding-left: 134px;
+    }
+
+    .new-speed-1 {
+        height: 400px;
+    }
+
+    .new-speed-1 h1 {
+        font-size: 42px;
+        padding-top: 150px;
+    }
+
+    .new-speed-1 .line {
+        margin-bottom: 28px;
+        width: 343px;
+        margin-left: 81px;
+        margin-top: 13px;
+    }
+
+    .new-speed-1 button {
+        font-size: 15px;
+        padding: 5px 20px;
+        margin-left: 155px;
+    }
+
+    .icons-1 i {
+        font-size: 35px;
+        padding-left: 2px;
+    }
+
+    .lines-1 {
+        margin-top: 35px;
+        width: 830px;
+    }
+
+    .last-1 ul li a {
+        padding-left: 10px;
+        font-size: 14px;
+    }
+
+    /* ========================================================= */
+
+
+    .header-3 ul li a {
+        padding-left: 0px;
+        font-size: 16px;
+    }
+
+    .scroll-2 img {
+        height: 535px;
+    }
+
+    .lifestyle-3 h6 {
+        text-align: center;
+        width: 755px;
+        padding-left: 263px;
+    }
+
+    .life-1 img {
+        height: 426px;
+        width: 500px;
+    }
+
+    .life-1 h2 {
+        font-size: 23px;
+        padding-left: 65px;
+        padding-top: 70px;
+    }
+
+    .life-1 p {
+        font-size: 13px;
+        padding-left: 65px;
+        font-weight: 500;
+    }
+
+    .life-1 button {
+        font-size: 13px;
+        padding: 8px 20px;
+        margin-left: 65px;
+
+    }
+
+    .life-2 img {
+        padding-right: 40px;
+        height: 426px;
+        width: 500px;
+        margin-left: -10px;
+        margin-top: -25px;
+    }
+
+    .life-2 h2 {
+        font-size: 23px;
+        padding-top: 70px;
+        padding-left: 65px;
+    }
+
+    .life-2 p {
+        font-size: 13px;
+        padding-left: 65px;
+        font-weight: 500;
+    }
+
+    .life-2 button {
+        font-size: 13px;
+        padding: 8px 20px;
+        margin-left: 65px;
+    }
+
+    .life-3 img {
+        height: 426px;
+        width: 500px;
+        margin-top: -25px;
+    }
+
+    .life-3 h2 {
+        font-size: 23px;
+        padding-left: 65px;
+        padding-top: 70px;
+    }
+
+    .life-3 p {
+        font-size: 13px;
+        padding-left: 65px;
+        font-weight: 500;
+    }
+
+    .life-3 button {
+        font-size: 13px;
+        padding: 8px 20px;
+        margin-left: 65px;
+    }
+
+    .technology-3 h1 {
+        font-size: 25px;
+    }
+
+    .technology-3 img {
+        height: 250px;
+        width: 300px;
+    }
+
+    .technology-3 h3 {
+        font-size: 21px;
+        padding-top: 21px;
+    }
+
+    .technology-3 p {
+        width: 315px;
+        font-size: 13px;
+        font-weight: 500;
+        padding-top: 5px;
+    }
+
+    .technology-3 button {
+        font-size: 14px;
+        padding: 5px 23px;
+    }
+
+    .technology-3 {
+        margin-top: 0px;
+    }
+
+    .retailer h2 {
+        font-size: 35px;
+        padding-top: 0px;
+        padding-bottom: 5px;
+    }
+
+    .retailer .line-3 {
+        margin-bottom: 5px;
+        width: 300px;
+        margin-left: 358px;
+        margin-top: 18px;
+    }
+
+    .retailer p {
+        font-size: 17px;
+        padding-bottom: 15px;
+    }
+
+    .retailer button {
+        font-size: 14px;
+        padding: 8px 25px;
+    }
+
+    .lines-3 {
+        margin-top: 35px;
+        width: 871px;
+        margin-left: 42px;
+    }
+
+    .icons-3 {
+        padding-top: 25px;
+    }
+
+    .icons-3 i {
+        font-size: 35px;
+        padding-left: 2px;
+    }
+
+    .last-3 ul li a {
+        padding-left: 10px;
+        font-size: 14px;
+    }
+
+    /* ======================================================= */
+
+
+    .header-4 ul li a {
+        padding-left: 0px;
+        font-size: 16px;
+    }
+
+    .bg-2 {
+        height: 535px;
+    }
+
+    .bg-2 h1 {
+        font-size: 35px;
+        text-align: right;
+        padding-right: 40px;
+    }
+
+    .bg-2 .lines {
+        width: 300px;
+        margin-left: 686px;
+        margin-top: 15px;
+    }
+
+    .experiance-2 p {
+        font-size: 13px;
+        width: 786px;
+        padding-left: 245px;
+    }
+
+    .eg-2 img {
+        height: 400px;
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    .eg-2 h2 a {
+        font-size: 30px;
+        padding-left: 13px;
+    }
+
+    .eg-2 button {
+        font-size: 13px;
+        padding: 8px 25px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .new-speed-2 {
+        height: 400px;
+        margin-top: 60px;
+    }
+
+    .new-speed-2 h1 {
+        font-size: 42px;
+    }
+
+    .new-speed-2 .line-2 {
+        margin-left: 254px;
+        width: 292px;
+        margin-top: 17px;
+    }
+
+    .new-speed-2 p {
+        font-size: 13px;
+        font-weight: 600;
+        width: 630px;
+        padding-left: 155px;
+    }
+
+    .lines-2 {
+        margin-top: 35px;
+        width: 871px;
+        margin-left: 42px;
+    }
+
+    .icons-2 i {
+        font-size: 35px;
+        padding-left: 2px;
+    }
+
+    .lines-2 {
+        margin-top: 30px;
+    }
+
+    .last-2 ul li a {
+        padding-left: 10px;
+        font-size: 14px;
+    }
+
+
+
+}
+
+/* ========================================================= */
+/* ========================================================= */
+
+/* For Tablet View */
+
+
+@media screen and (max-width: 991px) {
+    .container {
+        max-width: 710px;
+    }
+
+    .header .img1 {
+        width: 135px;
+        height: 35px;
+        padding-top: 11px;
+    }
+
+    .header ul {
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-right: 0px;
+    }
+
+    .header ul li a {
+        font-size: 13px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .scroll img {
+        height: 400px;
+    }
+
+    .drive h1 {
+        font-size: 36px;
+    }
+
+    .drive img {
+        height: 170px;
+        width: 210px;
+    }
+
+    .bike h2 {
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
+
+    .bike button {
+        font-size: 12px;
+        padding: 6px 10px;
+    }
+
+    .shine {
+        height: 350px;
+    }
+
+    .shine h1 {
+        font-size: 30px;
+        padding-top: 145px;
+    }
+
+    .shine button {
+        margin-left: 167px;
+        font-size: 14px;
+    }
+
+    .speed h1 {
+        font-size: 36px;
+        padding-top: 50px;
+    }
+
+    .cc {
+        padding: 35px;
+    }
+
+    .speed h2 {
+        font-size: 22px;
+        padding-right: 0px;
+    }
+
+    .speed a {
+        font-size: 9px;
+        font-weight: 900;
+    }
+
+    .iconic img {
+        height: 200px;
+        padding-top: 0px;
+    }
+
+    .iconic h6 {
+        font-size: 20px;
+        padding-top: 47px;
+        padding-left: 70px;
+    }
+
+    .iconic p {
+        padding-left: 70px;
+        width: 347px;
+        font-size: 13px;
+    }
+
+    .ride {
+        padding: 45px;
+    }
+
+    .ride img {
+        height: 250px;
+        width: 250px;
+    }
+
+    .ride h6 {
+        font-size: 18px;
+    }
+
+    .ride p {
+        width: 214px;
+        font-size: 13px;
+    }
+
+    .ride button {
+        font-size: 12px;
+    }
+
+    .new-speed {
+        height: 350px;
+    }
+
+    .new-speed h1 {
+        font-size: 30px;
+    }
+
+    .new-speed .line {
+        width: 246px;
+    }
+
+    .new-speed button {
+        font-size: 13px;
+        padding: 5px 18px;
+        margin-left: 131px;
+    }
+
+    .icons i {
+        font-size: 30px;
+        padding-left: 0px;
+    }
+
+    .lines {
+        margin-top: 25px;
+        margin-left: 24px;
+        width: 655px;
+    }
+
+    .last ul {
+        padding-left: 1rem;
+    }
+
+    .last ul li a {
+        padding-left: 7px;
+        font-size: 13px;
+    }
+
+
+    /* ===================================================== */
+
+
+    .header-1 .img1 {
+        width: 135px;
+        height: 35px;
+        padding-top: 11px;
+    }
+
+    .header-1 ul {
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 0px;
+        padding-right: 0px;
+    }
+
+    .header-1 ul li a {
+        font-size: 13px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .bg-1 {
+        height: 400px;
+    }
+
+    .bg-1 h1 {
+        font-size: 30px;
+        padding-top: 150px;
+    }
+
+    .bg-1 .lines {
+        margin-left: 48px;
+        margin-top: 19px;
+        width: 399px;
+    }
+
+    .comfort p {
+        font-size: 13px;
+        width: 532px;
+        padding-left: 0px;
+    }
+
+    .comfort img {
+        height: 320px;
+    }
+
+    .comfort h1 {
+        font-size: 32px;
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+
+    .luggage img {
+        height: 250px;
+        padding-top: 0px;
+    }
+
+    .luggage h1 {
+        font-size: 32px;
+    }
+
+    .luggage p {
+        font-size: 13px;
+        width: 622px;
+        padding-left: 0px;
+    }
+
+    .protection {
+        padding: 6px 80px 0px 80px;
+    }
+
+    .protection img {
+        height: 320px;
+        padding-top: 20px;
+    }
+
+    .protection h1 {
+        font-size: 32px;
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+
+    .protection p {
+        font-size: 13px;
+        width: 622px;
+        padding-left: 0px;
+    }
+
+    .avaliable {
+        padding: 6px 80px 0px 80px;
+    }
+
+    .avaliable img {
+        height: 250px;
+        width: 100%;
+    }
+
+    .avaliable h1 {
+        font-size: 32px;
+    }
+
+    .avaliable h6 {
+        font-size: 15px;
+        font-weight: 600;
+        padding-left: 0px;
+        padding-top: 0px;
+    }
+
+    .avaliable p {
+        font-size: 12px;
+        width: 570px;
+        padding-left: 0px;
+    }
+
+    .new-speed-1 {
+        height: 350px;
+    }
+
+    .new-speed-1 h1 {
+        font-size: 32px;
+        padding-top: 140px;
+    }
+
+    .new-speed-1 .line {
+        width: 262px;
+        margin-top: 8px;
+        margin-bottom: 20px;
+    }
+
+    .new-speed-1 button {
+        font-size: 13px;
+        padding: 4px 18px;
+        margin-left: 127px;
+    }
+
+    .icons-1 i {
+        font-size: 30px;
+        padding-left: 0px;
+    }
+
+    .lines-1 {
+        margin-top: 25px;
+        margin-left: 24px;
+        width: 655px;
+    }
+
+    .last-1 ul {
+        padding-left: 1rem;
+    }
+
+    .last-1 ul li a {
+        padding-left: 7px;
+        font-size: 13px;
+    }
+
+    /* ======================================================= */
+
+    .header-3 .img1 {
+        width: 135px;
+        height: 35px;
+        padding-top: 11px;
+    }
+
+    .header-3 ul {
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 0px;
+        padding-right: 0px;
+    }
+
+    .header-3 ul li a {
+        font-size: 13px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .scroll-2 img {
+        height: 400px;
+    }
+
+    .lifestyle-3 h6 {
+        text-align: center;
+        width: 597px;
+        padding-left: 80px;
+    }
+
+    .life-1 img {
+        height: 333px;
+        width: 390px;
+    }
+
+    .life-1 h2 {
+        font-size: 20px;
+        padding-left: 50px;
+        padding-top: 45px;
+    }
+
+    .life-1 p {
+        font-size: 12px;
+        padding-left: 50px;
+        width: 345px;
+    }
+
+    .life-1 button {
+        font-size: 11px;
+        padding: 6px 18px;
+        margin-left: 50px;
+    }
+
+    .life-2 h2 {
+        font-size: 20px;
+        padding-top: 50px;
+        padding-left: 50px;
+    }
+
+    .life-2 p {
+        font-size: 12px;
+        padding-left: 50px;
+        width: 345px;
+    }
+
+    .life-2 button {
+        font-size: 11px;
+        padding: 6px 18px;
+        margin-left: 50px;
+    }
+
+    .life-2 img {
+        height: 333px;
+        width: 390px;
+        margin-left: 8px;
+        margin-top: 0px;
+    }
+
+    .life-3 img {
+        height: 333px;
+        width: 390px;
+        margin-top: 0px;
+    }
+
+    .life-3 h2 {
+        font-size: 20px;
+        padding-left: 50px;
+        padding-top: 45px;
+    }
+
+    .life-3 p {
+        font-size: 12px;
+        padding-left: 50px;
+        width: 345px;
+    }
+
+    .life-3 button {
+        font-size: 11px;
+        padding: 6px 18px;
+        margin-left: 50px;
+    }
+
+    .technology-3 h1 {
+        font-size: 20px;
+    }
+
+    .technology-3 img {
+        height: 190px;
+        width: 210px;
+    }
+
+    .technology-3 h3 {
+        font-size: 18px;
+        padding-top: 15px;
+    }
+
+    .technology-3 p {
+        width: 210px;
+        font-size: 12px;
+        font-weight: 500;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .technology-3 button {
+        font-size: 12px;
+        padding: 4px 20px;
+    }
+
+    .retailer h2 {
+        font-size: 32px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .retailer .line-3 {
+        margin-bottom: 0px;
+        width: 294px;
+        margin-left: 237px;
+        margin-top: 16px;
+    }
+
+    .retailer p {
+        font-size: 15px;
+        margin-bottom: 0rem;
+    }
+
+    .retailer button {
+        font-size: 12px;
+        padding: 6px 20px;
+    }
+
+    .icons-3 i {
+        font-size: 30px;
+        padding-left: 0px;
+    }
+
+    .lines-3 {
+        margin-top: 25px;
+        margin-left: 8px;
+        width: 684px;
+    }
+
+    .last-3 ul {
+        padding-left: 1rem;
+    }
+
+    .last-3 ul li a {
+        padding-left: 7px;
+        font-size: 13px;
+    }
+
+    /* ======================================================== */
+
+    .header-4 .img1 {
+        width: 135px;
+        height: 35px;
+        padding-top: 11px;
+    }
+
+    .header-4 ul {
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 0px;
+        padding-right: 0px;
+    }
+
+    .header-4 ul li a {
+        font-size: 13px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .bg-2 {
+        height: 400px;
+    }
+
+    .bg-2 h1 {
+        font-size: 30px;
+        padding-top: 150px;
+    }
+
+    .bg-2 .lines {
+        margin-left: 471px;
+        margin-top: 10px;
+        width: 257px;
+    }
+
+    .experiance-2 p {
+        font-size: 13px;
+        width: 673px;
+        padding-left: 106px;
+    }
+
+    .eg-2 img {
+        height: 300px;
+        width: 100%;
+        margin-top: 0px;
+    }
+
+    .eg-2 h2 a {
+        font-size: 25px;
+        padding-left: 13px;
+    }
+
+    .eg-2 button {
+        font-size: 11px;
+        padding: 6px 20px;
+        margin-bottom: 10px;
+    }
+
+    .new-speed-2 h1 {
+        font-size: 32px;
+        padding-left: 150px;
+    }
+
+    .new-speed-2 .line-2 {
+        margin-left: 151px;
+        width: 226px;
+        margin-top: 9px;
+    }
+
+    .new-speed-2 p {
+        font-size: 12px;
+        width: 469px;
+        padding-left: 50px;
+    }
+
+    .icons-2 i {
+        font-size: 30px;
+        padding-left: 0px;
+    }
+
+    .lines-2 {
+        margin-top: 25px;
+        margin-left: 8px;
+        width: 684px;
+    }
+
+    .last-2 ul {
+        padding-left: 1rem;
+    }
+
+    .last-2 ul li a {
+        padding-left: 7px;
+        font-size: 13px;
+    }
+
+}
+
+/* ========================================================= */
+/* ========================================================= */
+
+/* For Mobile view */
+
+
+@media screen and (max-width: 767px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+
+    .container {
+        max-width: 260px;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    .footer {
+        flex-direction: row;
+    }
+
+    .middle {
+        flex-direction: row;
+    }
+
+    .logo {
+        color: white;
+        font-size: 0px;
+    }
+
+    .header .img1 {
+        width: 135px;
+        height: 35px;
+        padding-top: 5px;
+    }
+
+    .header {
+        background-color: black;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 54px;
+        max-width: 100%;
+        position: relative;
+    }
+
+
+    .menu-list {
+        display: flex;
+        gap: 0px;
+        list-style-type: none;
+        flex-direction: column;
+        position: absolute;
+        top: 54px;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        height: 335px;
+        background-color: black;
+        justify-content: space-around;
+        transform: translateY(-723px);
+        transition: all 1s;
+        opacity: 0;
+        pointer-events: none;
+
+    }
+
+    .list-item {
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        text-transform: uppercase;
+        font-family: Georgia;
+    }
+
+    .nav-menu1 {
+        display: none;
+    }
+
+    .toggle-button {
+        display: block;
+    }
+
+    .active .menu-list {
+        transform: translateY(0);
+        opacity: 1;
+        pointer-events: auto;
+        z-index: 999;
+        position: absolute;
+
+
+    }
+
+    .active .bar1 {
+        transform: translate(-12px, 17px) rotate(0deg);
+        display: none;
+        transform: translate(78px, 15px);
+    }
+
+    .active .bar2 {
+        transform: translate(2px, -3px) rotate(31deg);
+        transition-duration: .3s;
+        transform-origin: left;
+        z-index: 1;
+        width: 22px;
+    }
+
+    .active .bar3 {
+        transform: translate(0px, 0px) rotate(-24deg);
+        transform-origin: right;
+        transition-duration: .3s;
+        z-index: 2;
+        width: 21px;
+    }
+
+    .scroll img {
+        height: 170px;
+    }
+
+    .drive h1 {
+        font-size: 25px;
+        padding-top: 30px;
+    }
+
+    .drive img {
+        height: 140px;
+        width: 225px;
+    }
+
+    .bike {
+        padding: 10px 40px 10px 40px;
+    }
+
+    .bike h2 {
+        font-size: 14px;
+        padding-top: 10px;
+        padding-bottom: 0px;
+        padding-left: 47px;
+        margin-bottom: 0px;
+        width: 173px;
+    }
+
+    .bike button {
+        font-size: 10px;
+        padding: 4px 8px;
+        width: 136px;
+        margin-left: 40px;
+        margin-bottom: 20px;
+    }
+
+    .shine {
+        height: 200px;
+    }
+
+    .shine h1 {
+        font-size: 20px;
+        padding: 70px 0px 0px 8px;
+    }
+
+    .shine button {
+        margin-left: 64px;
+        font-size: 10px;
+    }
+
+    .speed h1 {
+        font-size: 25px;
+        padding-top: 40px;
+    }
+
+    .cc {
+        text-align: center;
+    }
+
+    .iconic img {
+        height: 200px;
+        width: 297px;
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+
+    .iconic h6 {
+        font-size: 20px;
+        padding-top: 20px;
+        padding-left: 0px;
+    }
+
+    .iconic p {
+        padding-left: 0px;
+        width: 270px;
+        font-size: 12px;
+    }
+
+    .ride {
+        padding: 20px 20px 20px 20px;
+    }
+
+    .ride img {
+        height: 250px;
+        width: 260px;
+    }
+
+    .ride h6 {
+        font-size: 20px;
+        width: 160px;
+    }
+
+    .ride p {
+        width: 262px;
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+
+    .ride button {
+        font-size: 10px;
+        width: 150px;
+        padding: 5px 15px;
+        margin-bottom: 40px;
+    }
+
+    .new-speed {
+        height: 200px;
+    }
+
+    .new-speed h1 {
+        font-size: 20px;
+        padding-top: 90px;
+        padding-left: 8px;
+    }
+
+    .new-speed .line {
+        width: 164px;
+        margin-bottom: 10px;
+        margin-top: 2px;
+        margin-left: 9px;
+    }
+
+    .new-speed button {
+        font-size: 10px;
+        padding: 5px 15px;
+        margin-left: 25px;
+    }
+
+    .icons i {
+        font-size: 25px;
+    }
+
+    .lines {
+        margin-top: 15px;
+        margin-left: -8px;
+        width: 266px;
+    }
+
+    .last ul {
+        padding-left: 0rem;
+    }
+
+    .last ul li {
+        display: inline-block;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .last ul li a {
+        padding-left: 0px;
+        font-size: 10px;
+    }
+
+    /* ========================================================= */
+
+    .logo {
+        color: white;
+        font-size: 0px;
+    }
+
+    .header-1 .img1 {
+        width: 135px;
+        height: 35px;
+        padding-top: 5px;
+    }
+
+    .header-1 {
+        background-color: black;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 54px;
+        padding: 0 30px;
+        max-width: 100%;
+        position: relative;
+    }
+
+
+    .menu-list {
+        display: flex;
+        gap: 0px;
+        list-style-type: none;
+        flex-direction: column;
+        position: absolute;
+        top: 54px;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        height: 335px;
+        background-color: black;
+        justify-content: space-around;
+        transform: translateY(-723px);
+        transition: all 1s;
+        opacity: 0;
+        pointer-events: none;
+
+    }
+
+    .list-item {
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        text-transform: uppercase;
+        font-family: Georgia;
+    }
+
+    .nav-menu1 {
+        display: none;
+    }
+
+    .toggle-button {
+        display: block;
+    }
+
+    .active .menu-list {
+        transform: translateY(0);
+        opacity: 1;
+        pointer-events: auto;
+        z-index: 999;
+        position: absolute;
+
+
+    }
+
+    .active .bar1 {
+        transform: translate(-12px, 17px) rotate(0deg);
+        display: none;
+        transform: translate(78px, 15px);
+    }
+
+    .active .bar2 {
+        transform: translate(2px, -3px) rotate(31deg);
+        transition-duration: .3s;
+        transform-origin: left;
+        z-index: 1;
+        width: 22px;
+    }
+
+    .active .bar3 {
+        transform: translate(0px, 0px) rotate(-24deg);
+        transform-origin: right;
+        transition-duration: .3s;
+        z-index: 2;
+        width: 21px;
+    }
+
+
+    .bg-1 {
+        background-position: center;
+        background-attachment: scroll;
+        height: 170px;
+    }
+
+    .bg-1 h1 {
+        font-size: 20px;
+        padding-top: 65px;
+        padding-left: 30px;
+    }
+
+    .bg-1 .lines {
+        margin-left: 28px;
+        margin-top: 10px;
+        width: 266px;
+    }
+
+    .comfort {
+        padding: 0px;
+    }
+
+    .comfort h1 {
+        font-size: 25px;
+        padding-top: 30px;
+        padding-bottom: 0px;
+    }
+
+    .comfort p {
+        font-size: 12px;
+        width: 308px;
+        padding-left: 34px;
+        padding-top: 10px;
+        margin-bottom: 0rem;
+    }
+
+    .comfort img {
+        height: 200px;
+    }
+
+    .luggage {
+        padding: 0px;
+    }
+
+    .luggage img {
+        height: 270px;
+        width: 240px;
+        padding-top: 20px;
+    }
+
+    .luggage h1 {
+        padding-top: 30px;
+        padding-bottom: 10px;
+        font-size: 25px;
+    }
+
+
+
+    .avaliable h6 {
+        width: 200px;
+    }
+
+    .luggage p {
+        font-size: 12px;
+        width: 255px;
+        padding-top: 10px;
+        margin-bottom: 0rem;
+    }
+
+    .protection {
+        padding: 0px;
+    }
+
+    .protection img {
+        height: 200px;
+        width: 320px;
+        padding-top: 20px;
+    }
+
+    .protection h1 {
+        padding-top: 30px;
+        padding-bottom: 10px;
+        font-size: 25px;
+    }
+
+    .protection p {
+        font-size: 12px;
+        width: 300px;
+        padding-top: 10px;
+        padding-left: 34px;
+        margin-bottom: 0rem;
+    }
+
+    .avaliable {
+        padding: 0px;
+    }
+
+    .avaliable img {
+        height: 270px;
+        width: 240px;
+        padding-top: 20px;
+    }
+
+    .avaliable h1 {
+        font-size: 25px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .avaliable h6 {
+        width: 200px;
+    }
+
+    .avaliable p {
+        width: 250px;
+    }
+
+    .new-speed-1 {
+        height: 170px;
+    }
+
+    .new-speed-1 h1 {
+        font-size: 20px;
+        padding-top: 65px;
+        padding-left: 30px;
+        padding-right: 10px;
+        text-align: right;
+    }
+
+    .new-speed-1 .line {
+        width: 164px;
+        margin-top: 0px;
+        margin-bottom: 15px;
+        margin-left: 145px;
+    }
+
+    .new-speed-1 button {
+        font-size: 10px;
+        padding: 2px 10px;
+        margin-left: 170px;
+    }
+
+    .icons-1 i {
+        font-size: 25px;
+    }
+
+    .lines-1 {
+        margin-top: 15px;
+        margin-left: -8px;
+        width: 266px;
+    }
+
+    .last-1 ul {
+        padding-left: 0rem;
+    }
+
+    .last-1 ul li {
+        display: inline-block;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .last-1 ul li a {
+        padding-left: 0px;
+        font-size: 10px;
+    }
+
+    /* ===================================================== */
+
+
+    .logo {
+        color: white;
+        font-size: 0px;
+    }
+
+    .header-3 .img1 {
+        width: 135px;
+        height: 35px;
+        padding-top: 5px;
+    }
+
+    .header-3 {
+        background-color: black;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 54px;
+        padding: 0 30px;
+        max-width: 100%;
+        position: relative;
+    }
+
+
+    .menu-list {
+        display: flex;
+        gap: 0px;
+        list-style-type: none;
+        flex-direction: column;
+        position: absolute;
+        top: 54px;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        height: 335px;
+        background-color: black;
+        justify-content: space-around;
+        transform: translateY(-723px);
+        transition: all 1s;
+        opacity: 0;
+        pointer-events: none;
+
+    }
+
+    .list-item {
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        text-transform: uppercase;
+        font-family: Georgia;
+    }
+
+    .nav-menu1 {
+        display: none;
+    }
+
+    .toggle-button {
+        display: block;
+    }
+
+    .active .menu-list {
+        transform: translateY(0);
+        opacity: 1;
+        pointer-events: auto;
+        z-index: 999;
+        position: absolute;
+
+
+    }
+
+    .active .bar1 {
+        transform: translate(-12px, 17px) rotate(0deg);
+        display: none;
+        transform: translate(78px, 15px);
+    }
+
+    .active .bar2 {
+        transform: translate(2px, -3px) rotate(31deg);
+        transition-duration: .3s;
+        transform-origin: left;
+        z-index: 1;
+        width: 22px;
+    }
+
+    .active .bar3 {
+        transform: translate(0px, 0px) rotate(-24deg);
+        transform-origin: right;
+        transition-duration: .3s;
+        z-index: 2;
+        width: 21px;
+    }
+
+    .scroll-2 img {
+        height: 170px;
+    }
+
+    .lifestyle-3 h6 {
+        text-align: center;
+        width: 280px;
+        padding-left: 29px;
+        font-size: 11px;
+        font-weight: 800;
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    .life-1 img {
+        height: 250px;
+        width: 269px;
+        padding-left: 32px;
+    }
+
+    .life-1 h2 {
+        font-size: 20px;
+        padding-left: 32px;
+        padding-top: 35px;
+        padding-bottom: 0px;
+        margin-bottom: 8px;
+        width: 290px;
+    }
+
+    .life-1 p {
+        font-size: 11px;
+        font-weight: 700;
+        padding-left: 32px;
+        margin-bottom: 5px;
+        width: 273px;
+    }
+
+    .life-1 button {
+        font-size: 10px;
+        width: 153px;
+        padding: 5px 0px;
+        margin-left: 32px;
+    }
+
+    .life-2 h2 {
+        font-size: 20px;
+        padding-top: 35px;
+        padding-left: 32px;
+        padding-bottom: 0px;
+        margin-bottom: 6px;
+        width: 290px;
+    }
+
+    .life-2 p {
+        font-size: 11px;
+        font-weight: 700;
+        padding-left: 32px;
+        width: 273px;
+    }
+
+    .life-2 button {
+        font-size: 10px;
+        width: 153px;
+        padding: 5px 0px;
+        margin-left: 32px;
+        margin-bottom: 20px;
+    }
+
+    .life-2 img {
+        height: 180px;
+        width: 150px;
+        margin-left: 0px;
+        margin-top: 0px;
+        padding-right: 0px;
+    }
+
+    .life-3 img {
+        height: 150px;
+        width: 295px;
+        margin-top: 0px;
+        padding-left: 153px;
+    }
+
+    .life-3 h2 {
+        font-size: 20px;
+        padding-top: 30px;
+        padding-left: 71px;
+        padding-bottom: 0px;
+        margin-bottom: 6px;
+        width: 290px;
+    }
+
+    .life-3 p {
+        text-align: center;
+        font-size: 11px;
+        font-weight: 700;
+        padding-left: 32px;
+        margin-bottom: 5px;
+        width: 286px;
+    }
+
+    .life-3 button {
+        font-size: 10px;
+        width: 153px;
+        padding: 5px 0px;
+        margin-left: 80px;
+        margin-bottom: 0px;
+    }
+
+    .technology-3 {
+        padding: 0px;
+    }
+
+    .technology-3 h1 {
+        font-size: 20px;
+        font-weight: 700;
+        padding-left: 89px;
+        padding-top: 35px;
+        padding-bottom: 10px;
+    }
+
+    .technology-3 img {
+        height: 190px;
+        width: 299px;
+    }
+
+    .technology-3 h3 {
+        font-size: 20px;
+        font-weight: 800;
+        padding-top: 20px;
+        padding-bottom: 0px;
+        margin-bottom: 5px;
+    }
+
+    .technology-3 p {
+        width: 293px;
+        font-size: 12px;
+        font-weight: 500;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-bottom: 5px;
+    }
+
+    .technology-3 button {
+        font-size: 10px;
+        width: 134px;
+        padding: 4px 0px;
+        margin-bottom: 30px;
+    }
+
+    .technology-3 h3 {
+        font-size: 20px;
+        font-weight: 800;
+        width: 200px;
+        padding-top: 20px;
+        padding-bottom: 0px;
+        margin-bottom: 5px;
+    }
+
+    .retailer h2 {
+        font-size: 25px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .retailer .line-3 {
+        margin-bottom: 0px;
+        width: 240px;
+        margin-left: 42px;
+        margin-top: 10px;
+    }
+
+    .retailer p {
+        font-size: 12px;
+        font-weight: 700;
+        margin-bottom: 0rem;
+    }
+
+    .retailer button {
+        font-size: 10px;
+        padding: 6px 20px;
+    }
+
+    .icons-3 {
+        padding-top: 0px;
+    }
+
+    .icons-3 i {
+        font-size: 25px;
+    }
+
+    .lines-3 {
+        margin-top: 15px;
+        margin-left: -8px;
+        width: 266px;
+    }
+
+    .last-3 ul li {
+        display: inline-block;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .last-3 ul li a {
+        padding-left: 0px;
+        font-size: 10px;
+    }
+
+    /* ========================================================= */
+
+
+    .logo {
+        color: white;
+        font-size: 0px;
+    }
+
+    .header-4 .img1 {
+        width: 135px;
+        height: 35px;
+        padding-top: 5px;
+    }
+
+    .header-4 {
+        background-color: black;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 54px;
+        padding: 0 30px;
+        max-width: 100%;
+        position: relative;
+    }
+
+
+    .menu-list {
+        display: flex;
+        gap: 0px;
+        list-style-type: none;
+        flex-direction: column;
+        position: absolute;
+        top: 54px;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        height: 335px;
+        background-color: black;
+        justify-content: space-around;
+        transform: translateY(-723px);
+        transition: all 1s;
+        opacity: 0;
+        pointer-events: none;
+
+    }
+
+    .list-item {
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        text-transform: uppercase;
+        font-family: Georgia;
+    }
+
+    .nav-menu1 {
+        display: none;
+    }
+
+    .toggle-button {
+        display: block;
+    }
+
+    .active .menu-list {
+        transform: translateY(0);
+        opacity: 1;
+        pointer-events: auto;
+        z-index: 999;
+        position: absolute;
+    }
+
+    .active .bar1 {
+        transform: translate(-12px, 17px) rotate(0deg);
+        display: none;
+        transform: translate(78px, 15px);
+    }
+
+    .active .bar2 {
+        transform: translate(2px, -3px) rotate(31deg);
+        transition-duration: .3s;
+        transform-origin: left;
+        z-index: 1;
+        width: 22px;
+    }
+
+    .active .bar3 {
+        transform: translate(0px, 0px) rotate(-24deg);
+        transform-origin: right;
+        transition-duration: .3s;
+        z-index: 2;
+        width: 21px;
+    }
+
+    .bg-2 {
+        height: 170px;
+        background-position: center;
+        background-attachment: scroll;
+    }
+
+    .bg-2 h1 {
+        text-align: center;
+        font-size: 20px;
+        padding-top: 46px;
+        padding-right: 0px;
+    }
+
+    .bg-2 .lines {
+        margin-left: 75px;
+        margin-top: 0px;
+        width: 172px;
+    }
+
+    .experiance-2 {
+        padding-top: 0px;
+    }
+
+    .experiance-2 p {
+        font-size: 11px;
+        width: 300px;
+        padding-left: 29px;
+        font-weight: 800;
+    }
+
+    .eg-2 img {
+        height: 220px;
+        width: 242px;
+        padding: 0px;
+    }
+
+    .eg-2 h2 {
+        margin-bottom: 0px;
+    }
+
+    .eg-2 h2 a {
+        font-size: 16px;
+        padding-left: 0px;
+    }
+
+    .eg-2 button {
+        font-size: 8px;
+        padding: 5px 5px;
+        margin-top: 6px;
+        margin-bottom: 20px;
+        margin-left: 0px;
+    }
+
+    .new-speed-2 {
+        height: 240px;
+        margin-top: 30px;
+    }
+
+    .new-speed-2 h1 {
+        font-size: 20px;
+        padding-left: 85px;
+        padding-top: 45px;
+        margin: 0px;
+    }
+
+    .new-speed-2 p {
+        font-size: 5px;
+        width: 200px;
+        padding-left: 0px;
+    }
+
+    .new-speed-2 .line-2 {
+        width: 139px;
+        margin-left: 86px;
+        margin-top: 3px;
+    }
+
+    .new-speed-2 p {
+        font-size: 10px;
+        width: 250px;
+        padding-left: 58px;
+        padding-top: 0px;
+    }
+
+    .icons-2 i {
+        font-size: 25px;
+    }
+
+    .lines-2 {
+        margin-top: 15px;
+        margin-left: -8px;
+        width: 266px;
+    }
+
+    .last-2 ul li {
+        display: inline-block;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .last-2 ul li a {
+        padding-left: 0px;
+        font-size: 10px;
+    }
+
+
+}
